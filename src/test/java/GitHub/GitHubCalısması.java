@@ -6,6 +6,7 @@ public class GitHubCalısması {
         System.out.println("GitHub Dersi basladı" );
         
         System.out.println("GitHub Dersinde basarılar" );
+        System.out.println( "Ama oyle degil");
 
         ;
     }
